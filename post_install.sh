@@ -21,6 +21,6 @@ while read -r program; do
   fi
   echo "Let's install.: $program"
   sudo apt install -y "$program"
-done < programs.txt
+done < programlist.txt
 
 echo "All programs installed!"
