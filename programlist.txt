@@ -1,0 +1,10 @@
+# Program list
+ranger
+neovim
+htop
+tmux
+curl
+git
+software-properties-common
+apt-transport-https
+wget
