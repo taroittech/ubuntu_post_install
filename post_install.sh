@@ -19,8 +19,8 @@ while read -r program; do
   if [[ -z "$program" || "$program" =~ ^# ]]; then
     continue
   fi
-  echo "Let's install.: $program"
+  echo -e "\n\e[1;32m*** Let's install.: $program ***\e[0m"
   sudo apt install -y "$program"
 done < programlist.txt
 
-echo "All programs installed!"
+echo -e "\e[1;32mAll programs installed!\e[0m"
