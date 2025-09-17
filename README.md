@@ -6,7 +6,6 @@ After installation script installs needed programs and components.
 - htop
 - tmux
 - curl
-- git
 - software-properties-common
 - apt-transport-https
 - wget
