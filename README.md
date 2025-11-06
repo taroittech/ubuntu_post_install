@@ -1,5 +1,7 @@
 # ubuntu_post_install
-After installation script installs needed programs and components.
+## programs
+
+Install needed **programs** and **components**.
 
 - ranger
 - neovim
@@ -9,3 +11,11 @@ After installation script installs needed programs and components.
 - software-properties-common
 - apt-transport-https
 - wget
+
+## install zabbix
+
+Install **Zabbix 7.2** without database
+
+- frontend
+- backend
+- agent
