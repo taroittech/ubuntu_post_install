@@ -7,4 +7,3 @@ curl
 software-properties-common
 apt-transport-https
 wget
-iperf3
