@@ -14,7 +14,7 @@ Install needed **programs** and **components**.
 
 ## install zabbix
 
-Install **Zabbix 7.2** without database
+Install **Zabbix 7.2** or **7.4** without database
 
 - frontend
 - backend
